@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Singleton/obj
+/SimpleFactoryTests/obj
+/SimpleFactoryTests/bin/Debug/net5.0
+/SimpleFactory/obj
+/SimpleFactory/bin/Debug/net5.0
+/Factory/obj
+/Factory/bin/Debug/net5.0
+/.vs
