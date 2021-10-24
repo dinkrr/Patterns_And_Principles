@@ -10,3 +10,6 @@
 /Factory/obj
 /Factory/bin/Debug/net5.0
 /.vs
+/SingletonTests/obj
+/SingletonTests/bin/Debug/net5.0
+/Singleton/bin/Debug/net5.0
