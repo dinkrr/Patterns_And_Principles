@@ -13,3 +13,8 @@
 /SingletonTests/obj
 /SingletonTests/bin/Debug/net5.0
 /Singleton/bin/Debug/net5.0
+/.idea/.idea.Patterns/.idea
+/CreationalPatterns/obj
+/CreationalPatternsTest/obj
+/CreationalPatternsTest/bin/Debug/net5.0
+/Patterns.sln.DotSettings.user

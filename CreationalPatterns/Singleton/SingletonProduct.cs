@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Singleton
+﻿namespace CreationalPatterns.Singleton
 {
 	public sealed class SingletonProduct
 	{
@@ -20,5 +18,5 @@ namespace Singleton
 			}
 		}
 
-	}
+	} 
 }

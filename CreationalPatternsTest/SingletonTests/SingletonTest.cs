@@ -1,7 +1,7 @@
+using CreationalPatterns.Singleton;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Singleton;
 
-namespace SingletonTests
+namespace CreationalPatternsTests.SingletonTests
 {
 	[TestClass]
 	public class SingletonTest

@@ -1,4 +1,4 @@
-﻿namespace SimpleFactory.Invoice
+﻿namespace CreationalPatterns.SimpleFactory
 {
 	public interface IInvoice
 	{

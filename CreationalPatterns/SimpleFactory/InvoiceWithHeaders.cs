@@ -1,9 +1,8 @@
 ﻿using System;
-using SimpleFactory.Invoice;
 
-namespace SimpleFactory.Factory
+namespace CreationalPatterns.SimpleFactory
 {
-	public class InvoiceWithoutHeader : IInvoice
+	public class InvoiceWithHeaders : IInvoice
 	{
 		public void Print()
 		{

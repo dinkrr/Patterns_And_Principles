@@ -1,6 +1,4 @@
-﻿using SimpleFactory.Invoice;
-
-namespace SimpleFactory.Factory
+﻿namespace CreationalPatterns.SimpleFactory
 {
 	public enum InvoiceType
 	{
