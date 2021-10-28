@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{BD18B51B-87EE-432A-8075-239DA20531DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{BD18B51B-87EE-432A-8075-239DA20531DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatternsTests", "CreationalPatternsTest\CreationalPatternsTests.csproj", "{671AD5E6-652E-4A0C-817A-4BCC46174BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatternsTests", "CreationalPatternsTest\CreationalPatternsTests.csproj", "{671AD5E6-652E-4A0C-817A-4BCC46174BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatternsTests", "BehavioralPatternsTests\BehavioralPatternsTests.csproj", "{3A32DD6C-25DA-46A5-8C97-7351623228E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{671AD5E6-652E-4A0C-817A-4BCC46174BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671AD5E6-652E-4A0C-817A-4BCC46174BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{671AD5E6-652E-4A0C-817A-4BCC46174BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
