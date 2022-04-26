@@ -17,6 +17,5 @@
 				return _instace;
 			}
 		}
-
 	} 
 }
