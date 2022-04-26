@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace BehavioralPatterns.Observer
 {
-	public class MatchAggregator : ISubject
+    public class MatchAggregator : ISubject
 	{
 		public List<IObserver> Observers = new List<IObserver>();
 		public void Notify(MatchResult result)
