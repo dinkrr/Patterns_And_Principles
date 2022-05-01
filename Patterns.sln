@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatterns", "Creat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatternsTests", "CreationalPatternsTest\CreationalPatternsTests.csproj", "{671AD5E6-652E-4A0C-817A-4BCC46174BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{781A37BF-4E7E-4D68-86F3-7C98B5411FB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatternsTests", "BehavioralPatternsTests\BehavioralPatternsTests.csproj", "{3A32DD6C-25DA-46A5-8C97-7351623228E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralPatternsTests", "BehavioralPatternsTests\BehavioralPatternsTests.csproj", "{3A32DD6C-25DA-46A5-8C97-7351623228E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralPatterns", "StructuralPatterns\StructuralPatterns.csproj", "{FCBA7603-CDDA-48B5-8446-D53F3B3B3775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralPatternsTests", "StructuralPatternsTests\StructuralPatternsTests.csproj", "{3934B961-72FC-4257-A044-A01FADAA7D45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A32DD6C-25DA-46A5-8C97-7351623228E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBA7603-CDDA-48B5-8446-D53F3B3B3775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBA7603-CDDA-48B5-8446-D53F3B3B3775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBA7603-CDDA-48B5-8446-D53F3B3B3775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBA7603-CDDA-48B5-8446-D53F3B3B3775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3934B961-72FC-4257-A044-A01FADAA7D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3934B961-72FC-4257-A044-A01FADAA7D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3934B961-72FC-4257-A044-A01FADAA7D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3934B961-72FC-4257-A044-A01FADAA7D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
